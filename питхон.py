@@ -1,5 +1,4 @@
-for i in range(1000000):
-    print("Hello world")
-
-print("Hello world")
-print("Hello world")
+def get_word():
+    for i in range(5):
+        print("Hello world")
+    return True
